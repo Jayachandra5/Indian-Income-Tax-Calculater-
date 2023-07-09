@@ -1,2 +1,4 @@
-# Indian-Income-Tax-Calculater-
-Any Indian can calculate his Income Tax easily 
+# Indian-Income-Tax-Calculator-
+Any Indian any indian can calucte his income tax esaily.
+
+taxes and expemtions are done.
