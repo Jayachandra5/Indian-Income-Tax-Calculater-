@@ -137,7 +137,7 @@ public class Tax {
          return d;
      }
   
- // professional tax and standered dedtion of 50000 and HRA. 
+ // professional tax and standard dedtion of 50000 and HRA. 
      
      static void Prof_tax(double d)
      {
