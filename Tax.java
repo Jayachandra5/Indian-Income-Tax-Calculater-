@@ -85,7 +85,7 @@ public class Tax {
          return b;
      }
      
-// Interst on saveings account.   
+//Interest in a savings account.   
      
      static double interst(double b)
      {
